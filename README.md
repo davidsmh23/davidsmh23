@@ -1,6 +1,6 @@
 # ¡Hola, soy davidsmh23! 👋
 
-Soy un desarrollador en crecimiento con interés en el desarrollo de aplicaciones y mercados de apuestas y probabilidades deportivas. Actualmente, estoy trabajando en proyectos personales y académicos, incluyendo una web similar a Manabox como parte de mi Trabajo de Fin de Ciclo junto con Alex y Dani.
+Soy un desarrollador en crecimiento con interés en el desarrollo de aplicaciones y mercados de apuestas y probabilidades deportivas. Actualmente, estoy trabajando en proyectos personales y académicos.
 
 ## 🔧 Tecnologías que manejo
 - **Lenguajes:** Java, HTML/CSS, JavaScript, SQL, PHP
