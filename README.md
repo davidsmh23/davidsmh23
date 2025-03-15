@@ -1,6 +1,6 @@
 # ¡Hola, soy davidsmh23! 👋
 
-Soy un desarrollador en crecimiento con interés en el desarrollo de aplicaciones y mercados de apuestas y probabilidades deportivas. Actualmente, estoy trabajando en proyectos personales y académicos.
+Soy un desarrollador en crecimiento con interés en el desarrollo de aplicaciones y en explorar diversas áreas de la programación. Actualmente, estoy trabajando en proyectos personales y académicos para mejorar mis habilidades y adquirir experiencia en el desarrollo de software.
 
 ## 🔧 Tecnologías que manejo
 - **Lenguajes:** Java, HTML/CSS, JavaScript, SQL, PHP
