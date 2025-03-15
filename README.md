@@ -14,12 +14,11 @@ En mi perfil de GitHub, encontrarás proyectos relacionados con:
 - Desarrollo web con Spring Boot y Thymeleaf
 - Aplicaciones con integración de bases de datos
 - Formularios interactivos y gestión de datos
-<!--
+
 Puedes ver algunos de mis proyectos destacados aquí:
-- [Proyecto 1](enlace_a_tu_proyecto)
-- [Proyecto 2](enlace_a_tu_proyecto)
-- [Proyecto 3](enlace_a_tu_proyecto)
--->
+- [Formulario de registro](https://github.com/davidsmh23/formularioRegistro.git)
+- [Firma Digital](https://github.com/davidsmh23/firma-digital.git)
+  
 ## 📚 Siempre aprendiendo
 Me esfuerzo por mejorar mis habilidades y aprender nuevas tecnologías. Actualmente, estoy profundizando en:
 - Optimización y mejora en el desarrollo con Spring Boot
@@ -29,6 +28,7 @@ Me esfuerzo por mejorar mis habilidades y aprender nuevas tecnologías. Actualme
 <!--## 🤝 ¡Conectemos!
 Me interesa colaborar en proyectos y conocer a otros desarrolladores. No dudes en contactarme si tienes una idea interesante o simplemente quieres charlar sobre desarrollo.
 -->
+🤝 Contacto
 - 📧 Mi correo: [davidsmh23@gmail.com]
 - 🌐 Mi sitio web: [https://davidsmh23.github.io/pages/aboutMe.html]
 
