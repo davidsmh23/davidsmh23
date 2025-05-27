@@ -12,22 +12,22 @@ Soy un apasionado desarrollador en crecimiento con interés en el desarrollo de 
 ## 📈 Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=davidsmh23&theme=dark&background=45%2CEB7F29%2C6892EB&dates=000000&hide_current_streak=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=davidsmh23&theme=dark&background=45%2CEB7F29%2C6892EB&dates=000000&hide_current_streak=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsmh23&layout=compact&theme=dark" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsmh23&layout=compact&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=davidsmh23&show_icons=true&theme=dark" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=davidsmh23&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/davidsmh23">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidsmh23&theme=dark&utcOffset=8" />  
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsmh23&theme=dark" />
   </a>
   <a href="https://github.com/davidsmh23">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidsmh23&theme=dark" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidsmh23&theme=dark&utcOffset=8" />
   </a>
 </p>
 
