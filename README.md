@@ -9,6 +9,9 @@ Soy un apasionado desarrollador en crecimiento con interés en el desarrollo de 
 - **Herramientas:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Archcraft](https://img.shields.io/badge/Archcraft-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) (aprendiendo)
 - **Otros:** Desarrollo web, APIs REST, formularios interactivos
 
+## 📈 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidsmh23&theme=transparent&card_width=1200&hide_current_streak=true)](https://git.io/streak-stats)
+
 ## 🚀 Mis Proyectos
 En mi perfil de GitHub, encontrarás proyectos relacionados con:
 - Desarrollo web con Spring Boot y Thymeleaf
