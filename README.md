@@ -10,7 +10,7 @@ Soy un apasionado desarrollador en crecimiento con interés en el desarrollo de 
 - **Otros:** Desarrollo web, APIs REST, formularios interactivos
 
 ## 📈 Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidsmh23&theme=transparent&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidsmh23&theme=dark&card_width=700&background=45%2CEB7F29%2C6892EB&dates=000000&hide_current_streak=true)](https://git.io/streak-stats)
 
 ## 🚀 Mis Proyectos
 En mi perfil de GitHub, encontrarás proyectos relacionados con:
