@@ -56,7 +56,9 @@ Estoy continuamente buscando formas de mejorar y aprender nuevas tecnologías. E
 -->
 ## 📬 Contacto
 - 📧 Mi correo: [davidsmh23@gmail.com](mailto:davidsmh23@gmail.com)
-- 🌐 Mi sitio web: [https://davidsmh23.github.io/pages/aboutMe.html](https://davidsmh23.github.io/pages/aboutMe.html)
+- 🌐 Mi GitHub pages: [https://davidsmh23.github.io/pages/aboutMe.html](https://davidsmh23.github.io/pages/aboutMe.html)
+- Mi sitio web (self-hosting no siempre está activo)
+[davidsmh.es](https://davidsmh.es)
 <!--
 - [LinkedIn](https://www.linkedin.com/in/davidsmh23) 
 -->
