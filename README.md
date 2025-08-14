@@ -1,5 +1,7 @@
 # ¡Hola, soy davidsmh23! 👋
 
+[![Visita mi web](https://img.shields.io/badge/🌐%20Visita%20mi%20web-1E90FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://davidsmh.es)
+
 Soy un apasionado desarrollador en crecimiento con interés en el desarrollo de aplicaciones y en explorar diversas áreas de la programación. Me encanta aprender y enfrentarme a nuevos desafíos. Actualmente, estoy trabajando en proyectos personales y académicos, y siempre estoy buscando oportunidades para colaborar y mejorar mis habilidades.
 
 ## 🌐 RRSS
